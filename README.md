@@ -37,13 +37,16 @@ I have been part of some great teams working for some major players, on differen
 - even in the clothing industry: I worked as a developer for a 3D shoes creation project, that was lots of fun
 
 
+
 *Note*: In the above projects, I was working fulltime for the companies or outsourced.
+
 
 
 *But over the years I worked in lots of other cool projects, as freelancer for many clients.*
 
 
-> As mentioned, *I REALLY LIKE TO BUILD COOL STUFF*, so I am often looking for opportunities to put in practice some skills and new tech that I find interest on. Here are some:
+
+> As mentioned, *I REALLY LIKE TO BUILD COOL STUFF*, so I am often looking for opportunities to put in practice some skills and new tech that I find interest on. Here are some.
 
 > I built, or helped build, Blogs, Websites, E-commerce, Omni Apps, Interactive Maps and run tracking, IoT integration, Virtual Reality Analytics, Augmented Reality, and even a Blockchain...
 
