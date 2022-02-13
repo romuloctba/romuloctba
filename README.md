@@ -1,6 +1,6 @@
 ## Hi, I am *Rômulo Zoch* 🖐️😎👍
 
-I am passionate developer, and I really like to build cool stuff.
+I am passionate developer, and I really like to build cool stuff and learn new tech.
 
 My _github_ is not the most updated, and some of the best repos I own are private because they were used for jobs, but I really hope you can find some usefull code in here.
 
