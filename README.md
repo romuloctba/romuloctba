@@ -8,7 +8,7 @@ My :github: is not the most updated, and some of the best repos I own are privat
 ---
 
 ### About Me
-I have been part of some great teams and for some major players, on different industries, like:
+I have been part of some great teams working for some major players, on different industries, like:
 - For the payment/financial domain, I worked frontend developer on fraud prevention dashboard using Angular.
 - For a 🦄 retail/marketplaces company as fullstack developer for integrations, API and frontend
 - in the health domain, I was a front end developer for the telemedicine arm of the largest diagnosis company of Latin America
