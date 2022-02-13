@@ -46,7 +46,7 @@ I have been part of some great teams working for some major players, on differen
 
 
 
-> As mentioned, *I REALLY LIKE TO BUILD COOL STUFF*, so I am often looking for opportunities to put in practice some skills and new tech that I find interest on. Here are some.
+> As mentioned, *I REALLY LIKE TO BUILD COOL STUFF*, so I am often looking for opportunities to put in practice some skills and new tech that I find interest on.
 
 > I built, or helped build, Blogs, Websites, E-commerce, Omni Apps, Interactive Maps and run tracking, IoT integration, Virtual Reality Analytics, Augmented Reality, and even a Blockchain...
 
