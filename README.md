@@ -21,8 +21,6 @@ My _github_ is not the most updated, and some of the best repos I own are privat
 
 🎨 I also like to draw, 3d model, and 3d print
 
-🎵 I am a music enthusiast, very far from pro, and I learned quite a bit of music theory over the years. 
-
 🎸 I do play a little guitar and bass guitar too, but don't have a band :(
 
 ---
