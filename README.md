@@ -25,9 +25,11 @@ My _github_ is not the most updated, and some of the best repos I own are privat
 
 ---
 
-*But over the years I worked in lots of other cool projects, as freelancer for many clients.*
 
 
-> I am often looking for opportunities to put in practice some skills and new tech that I find interest on.
+
+> Over the years I worked in lots of other cool projects, as freelancer for many clients, always with <3
+> 
+> I am always open for opportunities to put in practice some skills and new tech that I find interest on, to share knowleadge or just talk about experiences in our field.
 
 
